@@ -3,7 +3,7 @@
 
     Author: Guilherme Arruda
 
-    Header repository : https://github.com/ohananoshi/C_Projects/tree/main/gnuplot_interface
+    Header repository : https://github.com/ohananoshi/gplot_interface
 
     Created in: 08/04/2023
 
